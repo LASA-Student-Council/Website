@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LASA Student Council"
-excerpt: "Here you will find all your student council related information"  
+image: /images/background1.jpg 
 
 ---
 
