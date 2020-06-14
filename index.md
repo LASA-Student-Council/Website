@@ -1,16 +1,13 @@
 ---
 layout: page
 title: "LASA Student Council"
-image: /images/background1.jpg 
+image: /images/background1.jpg
 
 ---
 
-# Elections
-[Check out the latest updates on the Student Council elections](https://lasastuco.org/Run/)
+# Purpose
 
-## Purpose
+Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school– acting as class organizers, student advocates, morale officers, and major project planners among many other duties and responsibilities.
 
-The Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school– acting as class organizers, student advocates, morale officers, and major project planners among many other dutes and responsibilities.
-
-## Organization of Website
-Each class maintains a page of material. You can find these pages on the right under "Class Pages." Updates about current student council activities will be posted in the "announcement" sections. You can find all announcements made to classes in the "Remind Feeds" section. This section will be more holistic, while the "announcements" section will be more organized, and sometimes more thorough on important events.
+# Organization of Website
+Updates about current student council activities will be posted in the "announcement" sections. You can find all announcements made to classes in the "Remind Feeds" section. This section will be more holistic, while the "announcements" section will be more organized, and sometimes more thorough on important events.
