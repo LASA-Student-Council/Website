@@ -9,7 +9,7 @@ Elections for student council officers are held at the end of every school year.
 
 # Seniors
 ## President: Sam Christian
-<figure style="width: 150px" class="align-center">
+<figure style="width: 350px" class="align-center">
   <img src="{{ '/images/samChristian.jpg' | absolute_url }}" alt="">
 </figure>
 I’m excited to serve as the senior president for Student Council this year. I’m a member of the Science Olympiad club at LASA, and organize physics and astronomy olympiad for LASA students. Outside of LASA, I play cello and piano, and am involved in many astronomy and physics related activities.
