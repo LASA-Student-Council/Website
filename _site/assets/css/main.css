@@ -395,7 +395,7 @@ tr, td, th { vertical-align: middle; }
 @media screen and (min-width: 320px) { .page-title { font-size: calc(48px + 12 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .page-title { font-size: 60px; } }
 
-.page-image { position: relative; text-align: center; margin-top: -37.5px; margin-bottom: 2em; z-index: 1; }
+.page-image { position: relative; text-align: center; padding-top: 2em; margin-top: 2em; margin-bottom: 2em; z-index: 1; }
 @media (min-width: 48em) { .page-image { margin-top: -56.25px; } }
 @media (min-width: 64em) { .page-image { margin-top: -75px; } }
 .page-image img { width: 100%; }
