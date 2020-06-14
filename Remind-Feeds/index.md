@@ -1,5 +1,6 @@
 ---
 layout: page
+image: images/background8.jpg
 ---
 
 
