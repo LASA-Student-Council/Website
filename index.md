@@ -1,11 +1,5 @@
 ---
-layout: default
-author_profile: false
-sidebar:
-  title: "Information"
-  nav: docs
-header:
-  overlay_image: /images/lasalogo.png
+layout: page
 title: "LASA Student Council"
 excerpt: "Here you will find all your student council related information"  
 

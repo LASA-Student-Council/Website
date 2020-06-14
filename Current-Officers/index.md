@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Elections for student council officers are held at the end of every school year.

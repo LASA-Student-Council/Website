@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 # 2019-2020 School Year
 ## Seniors
