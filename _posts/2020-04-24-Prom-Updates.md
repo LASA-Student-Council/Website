@@ -1,15 +1,6 @@
 ---
-layout: single
-toc: false
-toc_label: "Table of Contents"
-title: "Prom Updates"
-sidebar:
-  title: "Information"
-  nav: docs
-header:
-  overlay_image: /assets/images/background_img.png
-  caption: " "
-excerpt: "This page will be continuously updated with the latest information about Online Prom"
+layout: page
+image: images/background3.jpg
 ---
 # Latest Updates and Clarification
 - There will be many celebrities. Come particularly if you like the office or college/professional football! (May 2nd 8:30 pm)
@@ -56,7 +47,7 @@ There will be random contests throughout the night, and the rules for those cont
 10:30 pm. All nominees are asked to arrive at the zoom call a several minutes before, to ensure their attendance to the event (around 10:15pm).
 
 ## Information from earlier in the week
-Virtual Prom is May 2 from 9-11 PM on Zoom. KAZI 88.7 DJ-RJ will also be playing music on @lbjlasaprom2020 Instagram live. 
+Virtual Prom is May 2 from 9-11 PM on Zoom. KAZI 88.7 DJ-RJ will also be playing music on @lbjlasaprom2020 Instagram live.
 Make sure to follow your class Instagram page and @lbjlasaprom2020 for updates on Prom! Tell your friends!
 Spirit Week is April 26 - May 1. DM your submissions for Spirit Week to the LBJ/LASA Virtual Prom Instagram page at @lbjlasaprom2020. The top submissions of every challenge will be posted, and the best one for each challenge will be voted on May 2 at prom! (if there are prizes, add that here)
 
@@ -68,16 +59,16 @@ Here's a flyer:
 Showcase your dance moves to a catchy song in a video.
 
 ### Tuesday- Pet Prom
-Dress up your pets (or stuffed animals) in the best outfit or costume. 
+Dress up your pets (or stuffed animals) in the best outfit or costume.
 
 ### Wednesday- Most School Spirit
-Dress up in your school colors or do a school chant and showcase your LBJ/LASA pride. 
+Dress up in your school colors or do a school chant and showcase your LBJ/LASA pride.
 
 ### Thursday- Spring Halloween
 Dress up in a cool costume or showcase your prom attire to celebrate Spring Halloween.
 
 ### Friday- Best Prom Backdrop
-Create your own prom backdrop. Make it creative and show us what your prom will be like. 
+Create your own prom backdrop. Make it creative and show us what your prom will be like.
 
 ### Saturday- Prom Royalty
 Vote for Prom Royalty during Prom! Voting for Spirit Week challenges will also happen at Prom.

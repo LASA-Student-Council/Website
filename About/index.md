@@ -4,6 +4,7 @@ title: "About us"
 redirect_from:
   - /test/
 excerpt: "But what *is* student council?"
+image: images/background3.jpg
 ---
 
 ## Activities throughout the year

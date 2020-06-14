@@ -1,17 +1,6 @@
 ---
-layout: single
-toc: false
-toc_label: "Table of Contents"
-title: "Junior Socials"
-sidebar:
-  title: "Information"
-  nav: docs
-header:
-  overlay_image: /assets/images/background_img.png
-  caption: " "
-excerpt: "Dates and Information"
-categories:
-  - 2021
+layout: page
+image: images/background3.jpg
 ---
 
 

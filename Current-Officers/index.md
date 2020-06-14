@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /images/background1.jpg
+image: /images/background8.jpg
 title: Current Officers
 ---
 Elections for student council officers are held at the end of every school year.

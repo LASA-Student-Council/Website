@@ -1,5 +1,6 @@
 ---
 layout: page
+image: images/background5.jpg
 ---
 # 2019-2020 School Year
 ## Seniors

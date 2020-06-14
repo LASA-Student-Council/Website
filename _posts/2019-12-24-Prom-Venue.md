@@ -1,12 +1,6 @@
 ---
-last_modified_at: 2019-12-24
-layout: splash
-header:
-  overlay_image: /assets/images/background_img.png
-  caption: " "
-categories:
-  - Announcement
- 
+layout: page
+image: images/background7.jpg
 ---
 
 # Announcement

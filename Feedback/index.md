@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Feedback
+image: images/background10.jpg
 ---
 
 Hello, and thank you for providing feedback to student council! You can also provide specific feedback by [emailing one of us](/Current-Officers/). If you would prefer to remain anonymous, you may fill out the form below (note that feedback will be reviewed by the entire student council). Thank you!

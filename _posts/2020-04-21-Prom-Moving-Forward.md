@@ -1,24 +1,15 @@
 ---
-layout: single
-toc: false
-toc_label: "Table of Contents"
-title: "Prom Moving Forward"
-sidebar:
-  title: "Information"
-  nav: docs
-header:
-  overlay_image: /assets/images/background_img.png
-  caption: " "
-excerpt: "What you need to know"
+layout: page
+image: images/background1.jpg
 ---
 
 Hello Juniors and Seniors!
 
-After some deliberation, the student councils of both LBJ and LASA have decided to move forward with a **virtual prom**. The event will consist of a Zoom meetup, where attendees will be separated out into a music breakout room of their choice, all with a DJ and different music genres. 
+After some deliberation, the student councils of both LBJ and LASA have decided to move forward with a **virtual prom**. The event will consist of a Zoom meetup, where attendees will be separated out into a music breakout room of their choice, all with a DJ and different music genres.
 
-Similarly, the week leading up to virtual prom will be a **spirit week**. Different theme contests will be held each day of the week. Voting for those contests will take place and be announced at virtual prom, along with the announcement of **Prom Royalty**. More details about what exactly those contests will look like will be released soon. 
+Similarly, the week leading up to virtual prom will be a **spirit week**. Different theme contests will be held each day of the week. Voting for those contests will take place and be announced at virtual prom, along with the announcement of **Prom Royalty**. More details about what exactly those contests will look like will be released soon.
 
-This event is **by no means mandatory**, but instead a free, fun event that any junior or senior can participate in. We understand that this cannot act as a full replacement for prom—but rather, something exciting for anyone who wants to attend. 
+This event is **by no means mandatory**, but instead a free, fun event that any junior or senior can participate in. We understand that this cannot act as a full replacement for prom—but rather, something exciting for anyone who wants to attend.
 
 On that note, we need some help in order to make this happen! If you are interested in acting as a **DJ for one of the rooms**, please fill out this google form: <https://forms.gle/ckvd8pq4uiKFvYDU6>.
 

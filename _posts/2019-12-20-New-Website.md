@@ -1,12 +1,7 @@
 ---
 last_modified_at: 2019-12-20
-layout: single
-header:
-  overlay_image: /assets/images/background_img.png
-  caption: " "
-categories:
-  - Maintainance
-excerpt: "Welcome"
+layout: page
+image: images/background9.jpg
 ---
 
 # Welcome to the new LASA student council website!
