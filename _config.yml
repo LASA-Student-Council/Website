@@ -90,7 +90,7 @@ defaults:
       share: true
 
 # Site Author
-author: LASA Student Council
+author:
   name:
   picture:
   email:
