@@ -1,1 +1,1 @@
-Test website!
+Welcome to Student Council!
