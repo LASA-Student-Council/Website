@@ -27,12 +27,12 @@
 /* Colors */
 /* Syntax highlighting (base16) colors */
 /* ========================================================================== Base elements ========================================================================== */
-body { color: #000; background: #d3e6e8; border-top-color: #000; }
+body { color: #000; background: #fff; border-top-color: #000; }
 
 a { color: #34374C; }
 a:hover { color: #272939; }
 
-blockquote { background-color: #c3d5d8; border-left-color: #34374C; }
+blockquote { background-color: #ebebed; border-left-color: #34374C; }
 
 /* ========================================================================== Site-wide ========================================================================== */
 .site-title a { color: #000; }
@@ -59,11 +59,11 @@ blockquote { background-color: #c3d5d8; border-left-color: #34374C; }
 
 .footnotes { border-top-color: #cccccc; }
 
-.site-logo-img { border-color: #d3e6e8; }
+.site-logo-img { border-color: #fff; }
 
 .toc-wrapper { border-color: #d9d9d9; }
 .toc-wrapper h2 { color: #586e75; background-color: #fafafa; }
-.toc-wrapper li ol { background-color: #d3e6e8; }
+.toc-wrapper li ol { background-color: #fff; }
 .toc-wrapper li a:hover, .toc-wrapper li a:focus { border-bottom: 1px dotted #cccccc; }
 
 #menu-toggle { color: #fff; }

@@ -1,7 +1,8 @@
 ---
 layout: page
+image: /images/background1.jpg
+title: Current Officers
 ---
-
 Elections for student council officers are held at the end of every school year.
 
 [Previous years can be seen here](https://lasastuco.org/Current-Officers/Previous-Officers/)

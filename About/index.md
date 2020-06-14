@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "About us"
 redirect_from:
   - /test/

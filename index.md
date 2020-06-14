@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LASA Student Council"
-image: /images/background1.jpg 
+#image: /images/background1.jpg 
 
 ---
 
