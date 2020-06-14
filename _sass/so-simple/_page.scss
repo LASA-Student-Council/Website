@@ -18,23 +18,17 @@
   letter-spacing: -2px;
 }
 
-.page-image {
-  position: relative;
-  text-align: center;
-  margin-top: (-1 * $site-logo-height) / 2;
-  margin-bottom: 2em;
-  z-index: 1;
 
   @include breakpoint($medium) {
-    margin-top: (-1.5 * $site-logo-height) / 2;
+    margin-top: 2em;
   }
 
   @include breakpoint($large) {
-    margin-top: (-2 * $site-logo-height) / 2;
+    margin-top: 2em;
   }
 
   img {
-    width: 100%;
+    width: 90%;
   }
 }
 
