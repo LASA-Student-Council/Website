@@ -46,6 +46,7 @@ Hey LASA! My name is Ethan Liu and I am the Class of 2022 student representative
 ## Vice-President: Keerthanyaa Arun
 **contact**: <keerthanyaa@lasastuco.org>
 ## Treaurer: Nina Prasad
+Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023. I am super excited to serve on the council for another year. In my free time, I like to play the piano and do arts & crafts projects. Feel free to email me at nina.prasad2005@gmail.com or stop me in the halls if you have questions or concerns!
 **contact**: <nina@lasastuco.org>
 ## Student Representative: Julia Ding
 **contact**: <julia@lasastuco.org>
