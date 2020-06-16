@@ -1,4 +1,5 @@
 ---
+redirect_to: /Velociraptor_mongoliensis.jpg
 layout: page
 title: "LASA Student Council"
 image: /images/background1.jpg
