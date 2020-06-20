@@ -84,8 +84,8 @@ Hi! My name is Keerthanyaa and I haven’t submitted my Student Council biograph
 
 **contact**: <keerthanyaa@lasastuco.org>
 ## Treaurer: Nina Prasad
-<figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+<figure style="width: 350px" class="align-center">
+  <img src="{{ '/images/NinaP2.JPG' | absolute_url }}" alt="">
 </figure>
 Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023. I am super excited to serve on the council for another year. In my free time, I like to play the piano and do arts & crafts projects. Feel free to email me at nina.prasad2005@gmail.com or stop me in the halls if you have questions or concerns!
 
