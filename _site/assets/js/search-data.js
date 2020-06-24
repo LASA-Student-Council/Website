@@ -59,8 +59,8 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/vote/"
       },{
-        "title": "testing!",
-        "excerpt":"i hope i didn’t destroy anything ","categories": ["test"],
+        "title": "Samplepostjulia",
+        "excerpt":"i hope i didn’t destroy anything ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/test/samplepostjulia/"
+        "url": "http://localhost:4000/samplepostjulia/"
       }]
