@@ -68,12 +68,13 @@ There are a lot of designs, but we wanted you to scroll through all of them befo
 </figure>
 
 ## Design 13
+**Note: although hard to see in this picture, the letters of this design are a word cloud of everybody's name**
 <figure>
   <img src="/images/T-shirt designs (14).png" alt="this is a placeholder image">
 </figure>
-**Note: although hard to see, the letters of this design are a word cloud of everybody's name**
 
 ## Design 14
+**Note: there is no back for this design, so please consider it as one design element to be incorporated into a t-shirt.**
 <figure>
   <img src="/images/T-shirt designs (15).png" alt="this is a placeholder image">
 </figure>
@@ -88,9 +89,10 @@ There are a lot of designs, but we wanted you to scroll through all of them befo
   <img src="/images/T-shirt designs (17).png" alt="this is a placeholder image">
 </figure>
 
-## Summary of designs and Voting Form
+## Design thumbnails and Voting Form
 <figure>
   <img src="/images/T-shirt designs (18).png" alt="this is a placeholder image">
 </figure>
+**Note: Putting these figures together in google drawings is hard, hence the misplaced numbers. After 1:30 am, the dinosaurs started moving on the page.**
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScGLJRodArLCPB_XBpoJ8eGU8JbMu0uAY8ECpahgZtKdFGWiA/viewform?embedded=true" width="640" height="1760" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
