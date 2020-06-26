@@ -89,6 +89,11 @@ There are a lot of designs, but we wanted you to scroll through all of them befo
   <img src="/images/T-shirt designs (17).png" alt="this is a placeholder image">
 </figure>
 
+## Design 16
+<figure>
+  <img src="/images/T-shirt designs (19).png" alt="this is a placeholder image">
+</figure>
+
 ## Design thumbnails and Voting Form
 <figure>
   <img src="/images/T-shirt designs (18).png" alt="this is a placeholder image">
