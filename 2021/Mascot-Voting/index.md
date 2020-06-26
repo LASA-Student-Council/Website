@@ -71,6 +71,7 @@ There are a lot of designs, but we wanted you to scroll through all of them befo
 <figure>
   <img src="/images/T-shirt designs (14).png" alt="this is a placeholder image">
 </figure>
+**Note: although hard to see, the letters of this design are a word cloud of everybody's name**
 
 ## Design 14
 <figure>
