@@ -78,7 +78,7 @@ Hi! My name is Emma and I haven’t submitted my Student Council biography and p
 **contact**: <emma@lasastuco.org>
 ## Vice-President: Keerthanyaa Arun
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/Keerthanyaa2.png.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/Keerthanyaa2.png' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Keerthanyaa Arun and I am the Class of 2023 vice president. In my free time, I like to swim and bake. If you have any questions or concerns, you can email me at <keerthanyaa@gmail.com>!
 
