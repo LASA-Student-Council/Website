@@ -17,14 +17,14 @@ I’m excited to serve as the senior president for Student Council this year. I�
 **contact**: <sam@lasastuco.org> (or <anyemailaddressyoucanthinkof@lasastuco.org>)
 ## Vice-President: Isabelle Saquing
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/Isabelle2.jpg' | absolute_url }}" alt="">
 </figure>
 Hi! It’s Isabelle Saquing, and I couldn’t be more excited to spend my senior year as vice president for the class of 2021. I also participate in the LASA/LBJ theater troupe, the Alley Cat Players, where I serve as president. Outside of school, I enjoy tutoring and collecting Disney pins. 
 
 **contact**: <isabelle@lasastuco.org>
 ## Treasurer: Lois Lee
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/LoisLee.jpg' | absolute_url }}" alt="">
 </figure>
 Hey everyone! My name is Lois Lee, and I am really looking forward to serving as the senior treasurer this school year. Outside of student council, I enjoy playing the piano and violin, as well as painting. If you have any questions or comments regarding student council, feel free to email me.
 
@@ -54,9 +54,9 @@ Hi! My name is Erik and I haven’t submitted my Student Council biography and p
 **contact**: <erik@lasastuco.org>
 ## Treaurer: Darlene Lai
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/Darlenelai2.JPG' | absolute_url }}" alt="">
 </figure>
-Hi! My name is Darlene and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+Hey guys! My name is Darlene Lai, and I'm the treasurer for the Class of 2022. In my spare time, I enjoy playing tennis and piano. If you have any questions or concerns, please feel free to contact me at <darlenelai@gmail.com>. Looking forward to a great year!
 
 **contact**: <darlene@lasastuco.org>
 ## Student Representative: Ethan Liu
@@ -71,7 +71,7 @@ Hey LASA! My name is Ethan Liu and I am the Class of 2022 student representative
 # Sophomores
 ## President: Emma Chu
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/EmmaChu.jpg' | absolute_url }}" alt="">
 </figure>
 Hello! My name is Emma Chu and I am the president for the Class of 2023. I’m very excited to serve our class this year. In my free time, I play violin and draw frogs. If you have any questions about student council or what’s going on at LASA (or questions about frogs), feel free to send me an email!
 
@@ -92,7 +92,7 @@ Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023
 **contact**: <nina@lasastuco.org>
 ## Student Representative: Julia Ding
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/juliading2.JPG' | absolute_url }}" alt="">
 </figure>
 Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. Outside of school, I play cello and piano and also take a great interest in math and science. I’m looking forward to another amazing year of student council!
 
