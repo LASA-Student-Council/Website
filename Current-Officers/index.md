@@ -78,9 +78,9 @@ Hi! My name is Emma and I haven’t submitted my Student Council biography and p
 **contact**: <emma@lasastuco.org>
 ## Vice-President: Keerthanyaa Arun
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/Keerthanyaa2.png.jpg' | absolute_url }}" alt="">
 </figure>
-Hi! My name is Keerthanyaa and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+Hi! My name is Keerthanyaa Arun and I am the Class of 2023 vice president. In my free time, I like to swim and bake. If you have any questions or concerns, you can email me at <keerthanyaa@gmail.com>!
 
 **contact**: <keerthanyaa@lasastuco.org>
 ## Treaurer: Nina Prasad
