@@ -7,7 +7,7 @@ image: images/background10.jpg
 After viewing what you want to order, place your order here.
 
 <figure class="half">
-    <a href="/assets/images/sticker1.jpg"><img src="/images/background10.jpg"></a>
-    <a href="/assets/images/image-filename-2-large.jpg"><img src="/images/sticker2.jpg"></a>
+    <a href="/assets/images/Sticker1.jpg"><img src="/images/background10.jpg"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="/images/Sticker2.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
