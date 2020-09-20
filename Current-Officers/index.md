@@ -14,7 +14,7 @@ Elections for student council officers are held at the end of every school year.
 </figure>
 I’m excited to serve as the senior president for Student Council this year. I’m a member of the Science Olympiad club at LASA, and organize physics and astronomy olympiad for LASA students. Outside of LASA, I play cello and piano, and am involved in some astronomy and physics related activities.
 
-**contact**: <sam@lasastuco.org> (or <anyemailaddressyoucanthinkof@lasastuco.org>)
+**contact**: <sam@lasastuco.org>
 ## Vice-President: Isabelle Saquing
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/Isabelle2.jpg' | absolute_url }}" alt="">
