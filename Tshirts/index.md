@@ -12,7 +12,7 @@ Once viewing the designs, please buy the t-shirts on school cash online.
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2023 T-shirts/stickers</a></div>
 
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2024 T-shirts/stickers</a></div>  
-   
+
 
 {% include toc title="Contents"%}
 
@@ -47,7 +47,7 @@ Once viewing the designs, please buy the t-shirts on school cash online.
 </figure>
 ## Sticker 3
 <figure>
-    <a href="/images/sticker3.jpg"><img src="/images/sticker3.jpg"></a>
+    <a href="/images/sticker3.jpeg"><img src="/images/sticker3.jpeg"></a>
 </figure>
 ## Sticker 4
 <figure>
