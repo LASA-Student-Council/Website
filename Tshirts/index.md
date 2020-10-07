@@ -36,6 +36,7 @@ After viewing what you want to order, place your order here.
     <a href="/images/sticker2.jpg"><img src="/images/sticker2.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
+
 <figure class="half">
     <a href="/images/sticker3.jpg"><img src="/images/sticker3.jpg"></a>
     <a href="/images/sticker4.jpg"><img src="/images/sticker4.jpg"></a>
