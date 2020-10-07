@@ -26,6 +26,11 @@ After viewing what you want to order, place your order here.
 </figure>
 
 # Sticker designs
+## Test
+<figure>
+    <a href="/images/sticker1.jpg"><img src="/images/sticker1.jpg"></a>
+</figure>
+## Test 2
 <figure class="half">
     <a href="/images/sticker1.jpg"><img src="/images/sticker1.jpg"></a>
     <a href="/images/sticker2.jpg"><img src="/images/sticker2.jpg"></a>
