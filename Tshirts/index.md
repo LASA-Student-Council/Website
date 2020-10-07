@@ -4,6 +4,7 @@ title: "T-shirt and sticker orders"
 image: images/background10.jpg
 ---
 **Click on each t-shirt to view in detail**
+
 Once viewing the designs, please buy the t-shirts on school cash online.
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2021 T-shirts/stickers</a></div>
 
