@@ -28,16 +28,16 @@ After viewing what you want to order, place your order here.
 # Sticker designs
 ## Test
 <figure>
-    <a href="/images/Sticker1.jpg"><img src="/images/Sticker1.jpg"></a>
+    <a href="/images/sticker1.jpg"><img src="/images/Sticker1.jpg"></a>
 </figure>
 ## Test 2
 <figure class="half">
-    <a href="/images/Sticker1.jpg"><img src="/images/sticker1.jpg"></a>
-    <a href="/images/Sticker2.jpg"><img src="/images/sticker2.jpg"></a>
+    <a href="/images/sticker1.jpg"><img src="/images/sticker1.jpg"></a>
+    <a href="/images/sticker2.jpg"><img src="/images/sticker2.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 <figure class="half">
-    <a href="/images/Sticker1.jpg"><img src="/images/sticker3.jpg"></a>
-    <a href="/images/Sticker2.jpg"><img src="/images/sticker4.jpg"></a>
+    <a href="/images/sticker3.jpg"><img src="/images/sticker3.jpg"></a>
+    <a href="/images/sticker4.jpg"><img src="/images/sticker4.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
