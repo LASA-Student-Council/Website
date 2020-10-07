@@ -3,9 +3,9 @@ layout: page
 title: "T-shirt and sticker orders"
 image: images/background10.jpg
 ---
+{% include toc %}
 ## Click on each t-shirt to view in detail
 After viewing what you want to order, place your order here.
-{% include toc %}
 # 2021 T-shirt
 <figure>
     <a href="/images/2021shirt.jpg"><img src="/images/2021shirt.jpg"></a>
