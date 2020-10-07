@@ -4,7 +4,7 @@ title: "T-shirt and sticker orders"
 image: images/background10.jpg
 ---
 **Click on each t-shirt to view in detail**
-After viewing the t-shirts, please buy
+Once viewing the designs, please buy the t-shirts on school cash online.
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2021 T-shirts/stickers</a></div>
 
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2022 T-shirts/stickers</a></div>
@@ -13,7 +13,8 @@ After viewing the t-shirts, please buy
 
 <div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2024 T-shirts/stickers</a></div>
 
-{% include toc %}
+
+{% include toc title="Contents"%}
 
 # 2021 T-shirt
 <figure>
