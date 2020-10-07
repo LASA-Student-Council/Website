@@ -2,6 +2,8 @@
 layout: page
 title: "T-shirt and sticker orders"
 image: images/background10.jpg
+redirect_from:
+  - /tshirts
 ---
 **Click on each t-shirt to view in detail**
 
