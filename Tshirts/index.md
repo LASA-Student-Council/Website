@@ -4,7 +4,14 @@ title: "T-shirt and sticker orders"
 image: images/background10.jpg
 ---
 **Click on each t-shirt to view in detail**
-After viewing what you want to order, place your order here.
+After viewing the t-shirts, please buy
+<div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2021 T-shirts/stickers</a></div>
+
+<div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2022 T-shirts/stickers</a></div>
+
+<div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2023 T-shirts/stickers</a></div>
+
+<div markdown="0"><a href="https://example.com" class="btn btn--info">Order 2024 T-shirts/stickers</a></div>
 
 {% include toc %}
 
