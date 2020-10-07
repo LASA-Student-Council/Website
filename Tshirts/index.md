@@ -47,7 +47,7 @@ Once viewing the designs, please buy the t-shirts on school cash online.
 </figure>
 ## Sticker 3
 <figure>
-    <a href="/images/sticker3.jpeg"><img src="/images/sticker3.jpeg"></a>
+    <a href="/images/sticker3.jpg"><img src="/images/sticker3.jpg"></a>
 </figure>
 ## Sticker 4
 <figure>
