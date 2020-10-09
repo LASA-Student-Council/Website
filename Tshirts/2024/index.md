@@ -1,16 +1,10 @@
 ---
 layout: page
-title: "T-shirt and sticker orders"
-image: images/background10.jpg
-redirect_from:
-  - /tshirts
+title: "Class of 2024 T-shirts and stickers"
 ---
-**Click on each t-shirt to view in detail**
-
-T-shirts must be ordered via school cash online. School cash online adds a small fee to every purchase that doesn't go to LASA.
-<div markdown="0"><a href="https://example.com" target="_blank" class="btn btn--info">Order Shirt/Stickers</a></div>
-
-
+T-shirts must be ordered via school cash online. School cash online adds a small fee to every purchase that doesn't go to LASA Student Council.
+<div markdown="0"><a href="https://example.com" target="_blank" class="btn btn--info">Order Shirt/Stickers on School Cash Online</a></div>
+<br>
 **Click on each item to view it in more detail**
 ## 2024 T-shirt
 <figure>
