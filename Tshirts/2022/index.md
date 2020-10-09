@@ -9,7 +9,7 @@ T-shirts must be ordered via school cash online. School cash online adds a small
     <a href="/images/2022Layout1.jpg"><img src="/images/2022Layout1.jpg" width="500"></a>
 </figure>
 **Click on each item below to view it in more detail**
-## 2024 T-shirt
+## 2022 T-shirt
 <figure>
     <a href="/images/2022shirt.jpg"><img src="/images/2022shirt.jpg"></a>
 </figure>

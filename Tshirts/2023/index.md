@@ -6,12 +6,12 @@ T-shirts must be ordered via school cash online. School cash online adds a small
 <div markdown="0"><a href="https://example.com" target="_blank" class="btn btn--info">Order Shirt/Stickers on School Cash Online</a></div>
 <br>
 <figure>
-    <a href="/images/2024Layout1.jpg"><img src="/images/2024Layout1.jpg"></a>
+    <a href="/images/2023Layout1.jpg"><img src="/images/2023Layout1.jpg" width="500"></a>
 </figure>
 **Click on each item below to view it in more detail**
-## 2024 T-shirt
+## 2023 T-shirt
 <figure>
-    <a href="/images/2024shirt.jpg"><img src="/images/2024shirt.jpg"></a>
+    <a href="/images/2023shirt.jpg"><img src="/images/2023shirt.jpg"></a>
 </figure>
 ## Video Game Sticker
 <figure>
