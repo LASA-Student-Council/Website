@@ -11,7 +11,7 @@ T-shirts must be ordered via school cash online. School cash online adds a small
 **Click on each item below to view it in more detail**
 ## 2024 T-shirt
 <figure>
-    <a href="/images/2021shirt.jpg"><img src="/images/2021shirt.jpg"></a>
+    <a href="/images/2021shirt.jpg"><img src="/images/2021shirt.jpg" width="500"></a>
 </figure>
 ## Video Game Sticker
 <figure>
