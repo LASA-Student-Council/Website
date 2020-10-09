@@ -19,7 +19,7 @@ T-shirts must be ordered via school cash online. School cash online adds a small
 </figure>
 ## Raptor-Jaguar Sticker
 <figure>
-    <a href="/images/sticker2.jpg"><img src="/images/sticker2.jpg"></a>
+    <a href="/images/sticker2.jpg"><img src="/images/sticker2.jpg" width="500"></a>
 </figure>
 ## Raptor Tracks Sticker
 <figure>
