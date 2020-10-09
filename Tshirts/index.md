@@ -6,7 +6,7 @@ redirect_from:
   - /tshirts
   - /tshirts/
 ---
-**Access your classes' page**
+**Access your classes' page for ordering t-shirts**
 <div markdown="0"><a href="/Tshirts/2021" class="btn btn--info">2021 T-shirts/stickers</a></div>
 
 <br>
