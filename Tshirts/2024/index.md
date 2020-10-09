@@ -6,7 +6,7 @@ T-shirts must be ordered via school cash online. School cash online adds a small
 <div markdown="0"><a href="https://example.com" target="_blank" class="btn btn--info">Order Shirt/Stickers on School Cash Online</a></div>
 <br>
 <figure>
-    <a href="/images/2024layout1.jpg"><img src="/images/2024layout1.jpg"></a>
+    <a href="/images/2024Layout1.jpg"><img src="/images/2024Layout1.jpg"></a>
 </figure>
 **Click on each item below to view it in more detail**
 ## 2024 T-shirt
