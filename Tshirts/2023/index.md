@@ -3,7 +3,7 @@ layout: page
 title: "Class of 2023 T-shirts and stickers"
 ---
 T-shirts must be ordered via school cash online. School cash online adds a small fee to every purchase that doesn't go to LASA Student Council.[^1]
-<div markdown="0"><a href="https://example.com" target="_blank" class="btn btn--info">Order Shirt/Stickers on School Cash Online</a></div>
+<div markdown="0"><a href="https://austinisd.schoolcashonline.com/Fee/Details/18519/63/False/True" target="_blank" class="btn btn--info">Order Shirt/Stickers on School Cash Online</a></div>
 <br>
 <figure>
     <a href="/images/2023Layout1.jpg"><img src="/images/2023Layout1.jpg" width="500"></a>
