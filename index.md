@@ -5,6 +5,8 @@ image: /images/background1.jpg
 
 ---
 
+**[By class t-shirts for a limited time!](/Tshirts)**
+
 # Purpose
 
 Student Council is LASA’s student government organization, made up of four elected officers from each class. Officers serve as the community and social chairs of the school – acting as class organizers, student advocates, morale officers, and major project planners among many other duties and responsibilities.
