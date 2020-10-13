@@ -7,6 +7,9 @@ redirect_from:
   - /tshirts/
 ---
 **Access your classes' page for ordering t-shirts**
+
+Products will be delivered in 2-3 weeks and be available for pickup at LASA. We will let you know when they are ready for pickup.
+
 <div markdown="0"><a href="/Tshirts/2021" class="btn btn--info">2021 T-shirts/stickers</a></div>
 
 <br>
