@@ -18,7 +18,7 @@ Although there is no Homecoming Dance this year, Student Council is still planni
 
 # Theme days
 Be creative with these days! Virtual backgrounds are encouraged as well for each day.
-- Monday: Animal Day
+- Monday: Animal Day (set your zoom background to your favorite animal, choose an animal-based filter on zoom, or wear clothing with pictures of that animal)
 - Tuesday: Cowboy Day 
 - Wednesday: Under the Sea Day 
 - Thursday: Meme Day
