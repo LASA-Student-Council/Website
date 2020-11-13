@@ -12,8 +12,8 @@ Although there is no Homecoming Dance this year, Student Council is still planni
 - There will be a "reveal" on Friday of their identities
 
 # Scavenger Hunt (Kind of)
-- Each day, Student Council will post an item or photo you need to find or take.
-- Each time you "find the item," you will be entered into a drawing to win a prize
+- Each day, Student Council will post two items or photos you need to find or take.
+- Each time you "find the two items," you will be entered into a drawing to win a prize
 - The winner(s) of the drawing will be announced on Friday
 
 # Theme days
