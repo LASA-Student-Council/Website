@@ -20,6 +20,6 @@ Although there is no Homecoming Dance this year, Student Council is still planni
 Be creative with these days! Virtual backgrounds are encouraged as well for each day.
 - Monday: Animal Day
 - Tuesday: Cowboy Day 
-- Wednesday: Tropical/Under the Sea Day 
-- Thursday: Meme/Costume Day
+- Wednesday: Under the Sea Day 
+- Thursday: Meme Day
 - Friday: Spirit Day
