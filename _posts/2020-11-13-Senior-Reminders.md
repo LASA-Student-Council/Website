@@ -18,6 +18,6 @@ Ordered by amount I want you to do this:
 <https://tinyurl.com/lasahoco2020>
 
 # Participate in Homecoming activities
-https://lasastuco.org/Homecoming-Activities/
+<https://lasastuco.org/Homecoming-Activities/>
 
 
