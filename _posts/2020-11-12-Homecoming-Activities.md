@@ -8,8 +8,8 @@ Although there is no Homecoming Dance this year, Student Council is still planni
 
 # Guess the Student/Teacher/Athlete
 - One Student, student athlete, and teacher's interests/hobbies will be posted on the Student Council Instagram per day.
-- You are encouraged to guess the identity of this Student Athlete
-- There will be a "reveal" on Friday of the Athlete's identities
+- You are encouraged to guess the identity of these individuals
+- There will be a "reveal" on Friday of their identities
 
 # Scavenger Hunt (Kind of)
 - Each day, Student Council will post an item or photo you need to find or take.
