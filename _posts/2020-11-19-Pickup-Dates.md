@@ -1,7 +1,7 @@
 ---
 layout: page
 image: images/background6.jpg
-title: Senior Reminders
+title: Pickup Dates
 ---
 If you ordered a t-shirt or sticker, please pickup your items on these dates:
 - Novemeber 19th: 4:00 to 6 pm
