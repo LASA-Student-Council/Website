@@ -5,7 +5,6 @@ image: /images/background1.jpg
 
 ---
 
-**[Buy class t-shirts for a limited time!](/Tshirts)**
 
 # Purpose
 
