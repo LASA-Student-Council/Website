@@ -75,21 +75,21 @@ Hi! My name is Jaynie and I haven’t submitted my Student Council biography and
 **contact**: <>
 ## Vice-President: Wendy Geng
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/Keerthanyaa2.png' | absolute_url }}" alt="">
+  <img src="{{ '/images/StickFigure.png' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Wendy and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
 
 **contact**: <>
 ## Treaurer: Will Basham
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '/images/NinaP2.JPG' | absolute_url }}" alt="">
+  <img src="{{ '/images/StickFigure.JPG' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Will and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
 
 **contact**: <>
 ## Student Representative: Sofia Francis
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/juliading2.JPG' | absolute_url }}" alt="">
+  <img src="{{ '/images/StickFigure.JPG' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Sofia and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
 
