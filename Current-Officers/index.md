@@ -4,38 +4,7 @@ image: /images/background8.jpg
 title: Current Officers
 ---
 Elections for student council officers are held at the end of every school year.
-
 # Seniors
-## President: Sam Christian
-<figure style="width: 350px" class="align-center">
-  <img src="{{ '/images/samChristian.jpg' | absolute_url }}" alt="">
-</figure>
-I’m excited to serve as the senior president for Student Council this year. I’m a member of the Science Olympiad club at LASA, and organize physics and astronomy olympiad for LASA students. Outside of LASA, I play cello and piano, and am involved in some astronomy and physics related activities.
-
-**contact**: <sam@lasastuco.org>
-## Vice-President: Isabelle Saquing
-<figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/Isabelle2.jpg' | absolute_url }}" alt="">
-</figure>
-Hi! It’s Isabelle Saquing, and I couldn’t be more excited to spend my senior year as vice president for the class of 2021. I also participate in the LASA/LBJ theater troupe, the Alley Cat Players, where I serve as president. Outside of school, I enjoy tutoring and collecting Disney pins. 
-
-**contact**: <isabelle@lasastuco.org>
-## Treasurer: Lois Lee
-<figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/LoisLee.jpg' | absolute_url }}" alt="">
-</figure>
-Hey everyone! My name is Lois Lee, and I am really looking forward to serving as the senior treasurer this school year. Outside of student council, I enjoy playing the piano and violin, as well as painting. If you have any questions or comments regarding student council, feel free to email me.
-
-**contact**: <lois@lasastuco.org>
-## Student Representative: Annie Franklin
-<figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
-</figure>
-Hi! My name is Annie and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
-
-**contact**: <annie@lasastuco.org>
-
-# Juniors
 ## President: Sally Edwards
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
@@ -66,14 +35,14 @@ Hey LASA! My name is Ethan Liu and I am the Class of 2022 student representative
 **contact**: <ethan@lasastuco.org>
 
 
-# Sophomores
-## President: Emma Chu
+# Juniors
+## President: Sam Church
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/EmmaChu.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
 </figure>
-Hello! My name is Emma Chu and I am the president for the Class of 2023. I’m very excited to serve our class this year. In my free time, I play violin and draw frogs. If you have any questions about student council or what’s going on at LASA (or questions about frogs), feel free to send me an email!
+Hi! My name is Sam and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
 
-**contact**: <emma@lasastuco.org>
+**contact**: <>
 ## Vice-President: Keerthanyaa Arun
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/Keerthanyaa2.png' | absolute_url }}" alt="">
@@ -95,6 +64,36 @@ Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023
 Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. Outside of school, I play cello and piano and also take a great interest in math and science. I’m looking forward to another amazing year of student council!
 
 **contact**: <julia@lasastuco.org>
+
+## Sophomores
+## President: Jaynie Lee
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/StickFigure.jpg' | absolute_url }}" alt="">
+</figure>
+Hi! My name is Jaynie and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+
+**contact**: <>
+## Vice-President: Wendy Geng
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/Keerthanyaa2.png' | absolute_url }}" alt="">
+</figure>
+Hi! My name is Wendy and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+
+**contact**: <>
+## Treaurer: Will Basham
+<figure style="width: 350px" class="align-center">
+  <img src="{{ '/images/NinaP2.JPG' | absolute_url }}" alt="">
+</figure>
+Hi! My name is Will and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+
+**contact**: <>
+## Student Representative: Sofia Francis
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/juliading2.JPG' | absolute_url }}" alt="">
+</figure>
+Hi! My name is Sofia and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+
+**contact**: <>
 
 ## Freshmen
 **Elections held at the beginning of the year.**
