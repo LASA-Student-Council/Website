@@ -1,10 +1,8 @@
 ---
 layout: page
 image: /images/background8.jpg
-title: Current Officers
 ---
-Elections for student council officers are held at the end of every school year.
-
+# 2020-2021 School Year
 # Seniors
 ## President: Sam Christian
 <figure style="width: 350px" class="align-center">
@@ -95,10 +93,3 @@ Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023
 Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. Outside of school, I play cello and piano and also take a great interest in math and science. I’m looking forward to another amazing year of student council!
 
 **contact**: <julia@lasastuco.org>
-
-## Freshmen
-**Elections held at the beginning of the year.**
-
-### Previous Years
-[2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)
-[2020-21 officers](https://lasastuco.org/Current-Officers/2020-21-Officers/)
