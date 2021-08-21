@@ -14,7 +14,7 @@ Hi! My name is Sally Edwards, and I am the President of the Class of 2022. When 
 **contact**: <sally@lasastuco.org>
 ## Vice-President: Erik Rodriguez
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/F35FEADB-5E26-4BF6-98A1-C09EACEDC038.heic' | absolute_url }}" alt="">
+  <img src="{{ '/images/erik.jpeg' | absolute_url }}" alt="">
 </figure>
 My name is Erik Rodriguez and I am the Student Council Senior Vice President. I am passionate about my job in the operations of Prep To Your Door, a local small business and zero-waste, organic, vegan meal delivery service. I am working towards attaining a biotechnology certificate and have a great interest in psychedelic psychotherapy to combat mental illnesses. My hobbies include working out with friends, reading, watching YouTube videos and playing video games. My favorite authors are Albert Camus and Gege Akutami. My favorite artists are Lil Peep, Bad Bunny and Drake.
 
@@ -42,7 +42,6 @@ Ethan is the Class of 2022 student representative. He is excited for this school
 </figure>
 Hi! My name is Sam and I’m excited to be the Junior President this year! I have 2 adorable and incredible dogs named Winston and Rosie, and in my free time, I compete for the LASA Debate team and sleep. I’m ready for a great year of student council!
 
-**contact**: <>
 ## Vice-President: Keerthanyaa Arun
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/Keerthanyaa2.png' | absolute_url }}" alt="">
@@ -74,15 +73,15 @@ Hi! My name is Jaynie Lee and I am the president for the class of 2024. I’m so
 
 ## Vice-President: Wendy Geng
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/StickFigure.png' | absolute_url }}" alt="">
+  <img src="{{ '' | absolute_url }}" alt="">
 </figure>
 Hello! My name is Wendy Geng and I am the vice president for the Class of 2024. I enjoy playing tennis and cooking for my family and friends when I have free time. Currently, I like listening to Mac Miller and Binki, playing with my dog Frosty, and reading various social science books, like Evicted and The Color of Law. I’m excited to be a part of student council this year!
 
 ## Treaurer: Will Basham
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '/images/StickFigure.JPG' | absolute_url }}" alt="">
+  <img src="{{ '' | absolute_url }}" alt="">
 </figure>
-Hi! My name is Will and I haven’t submitted my Student Council biography and picture yet. For all intents and purposes, I am a stick figure, controlled only by the impressive drawing skills of Sam. If I don’t submit them by July 17th, **I will be eaten by a lasaraptor** in a manner as depicted in the above figure.
+
 
 ## Student Representative: Sofia Francis
 <figure style="width: 400px" class="align-center">
