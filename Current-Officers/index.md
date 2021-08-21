@@ -58,9 +58,9 @@ Hey y’all! My name is Nina Prasad and I am the treasurer for the Class of 2023
 **contact**: <nina@lasastuco.org>
 ## Student Representative: Julia Ding
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/juliading2.JPG' | absolute_url }}" alt="">
+  <img src="{{ '/images/juliaa.JPG' | absolute_url }}" alt="">
 </figure>
-Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. Outside of school, I play cello and piano and also take a great interest in math and science. I’m looking forward to another amazing year of student council!
+Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. Outside of school, I play cello and piano and also take a great interest in math and computer science. I’m looking forward to another amazing year of student council!
 
 **contact**: <julia@lasastuco.org>
 
