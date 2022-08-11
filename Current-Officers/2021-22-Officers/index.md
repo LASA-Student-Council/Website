@@ -116,5 +116,5 @@ Hi!! My name is Chelsey Pence! I am the 2025 treasurer! Some things I enjoy doin
 Hello everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want to tell me, you can contact me at liu.edwin07@gmail.com!
 
 ### Previous Years
-[2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)
-[2020-21 officers](https://lasastuco.org/Current-Officers/2020-21-Officers/)
+[2019-20 officers](https://lasastuco.com/Current-Officers/2019-20-Officers/)
+[2020-21 officers](https://lasastuco.com/Current-Officers/2020-21-Officers/)

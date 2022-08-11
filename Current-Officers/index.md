@@ -24,7 +24,7 @@ Hey y’all! My name is Nina Prasad and I’m the treasurer for the Class of 202
 
 ## Student Representative: Julia Ding
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/julia2022.JPG' | absolute_url }}" alt="">
+  <img src="{{ '/images/julia2022.jpg' | absolute_url }}" alt="">
 </figure>
 Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. I play the cello and piano and also take a great interest in math and computer science. I’m looking forward to another amazing year of student council!
 
@@ -49,14 +49,14 @@ Hey! I’m Will Basham, and I’m the treasurer for the class of 2024. In my fre
 
 ## Student Representative: Travis Edwards
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/travis2022.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/travis2022.png' | absolute_url }}" alt="">
 </figure>
 Hi! I am Travis Edwards, the Class of 2024 Student Rep. I am excited to begin working on student council this year. I enjoy playing on the basketball team and in the Honors orchestra. Basketball and football are my two favorite sports. I am a big fan of the Baylor Bears, Utah Jazz, and Chicago Bears. I’m also always excited to try and solve a logic puzzle or a good crossword. If you have any questions or ideas feel free to contact me at Travispedwards@gmail.com
 
 ## Sophomores
 ## President: Cecelia Gay
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/cecelia2022.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/cecelia2022.png' | absolute_url }}" alt="">
 </figure>
 Hi! My name is CeCelia Gay and I am the Sophomore President this year. In my free time, I love to play volleyball, go running, and hang out with my friends. At home, I have one dog named Juno who I love to play with. I also enjoy babysitting around my neighborhood. I love planning the dances and talking to all sorts of people during student council. I am looking forward to another great year in stuco!
 
@@ -82,6 +82,6 @@ Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representa
 Freshmen elections are held in the fall. Check back soon!
 
 ### Previous Years
-[2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)
-[2020-21 officers](https://lasastuco.org/Current-Officers/2020-21-Officers/)
-[2021-22 officers](https://lasastuco.org/Current-Officers/2021-22-Officers/)
+[2019-20 officers](https://lasastuco.com/Current-Officers/2019-20-Officers/)
+[2020-21 officers](https://lasastuco.com/Current-Officers/2020-21-Officers/)
+[2021-22 officers](https://lasastuco.com/Current-Officers/2021-22-Officers/)
