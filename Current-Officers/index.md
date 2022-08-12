@@ -33,7 +33,7 @@ Hi everyone! My name is Julia Ding, and I am the class of 2023 student represent
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/sofia_francis - 1.jpeg' | absolute_url }}" alt="">
 </figure>
-Hi! My name is Sofia Francis and I’m the Sophomore Student Representative. In my free time, I am a foil fencer, an avid reader, and an ice cream connoisseur. I like graphic design, funky earrings, and food with a lot of garlic. Never be afraid to say hi in the halls, I can’t wait to meet you!
+Hi! My name is Sofia Francis and I’m the Junior President. In my free time, I am a foil fencer, an avid reader, and an ice cream connoisseur. I like graphic design, funky earrings, and food with a lot of garlic. Never be afraid to say hi in the halls, I can’t wait to meet you!
 
 ## Vice-President: Wendy Geng
 <figure style="width: 400px" class="align-center">
