@@ -79,7 +79,29 @@ Hi, I’m Chloe Bao and I’m the Class of 2025 treasurer! Some of my hobbies in
 Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at liu.edwin07@gmail.com!
 
 ## Freshmen
-Freshmen elections are held in the fall. Check back soon!
+## President: Isabel Liu
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/isabelliu.jpeg' | absolute_url }}" alt="">
+</figure>
+Hey! My name is Isabel Liu and I am this year’s Freshmen President. I like to hang out with my friends whenever I can and listen to music by my favorite artists like Lana Del Rey, The Weeknd, and Mitski. I am really looking forward to being in student council this year, if you ever need to contact me my email is isabelsliu08@gmail.com.
+
+## Vice-President: Claire Zhou
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/clairezhou.jpeg' | absolute_url }}" alt="">
+</figure>
+Hey! My name is Claire Zhou and I am the freshman vice president. I like to play tennis, listen to music, and organize socials. My current favorite artists are Lana Del Rey, Faye Webster, and Beabadoobee, and my favorite soda is root beer! If you’d like to contact me with questions or suggestions, you can email z.claire127@gmail.com.
+
+## Treasurer: Esther Kwan
+<figure style="width: 350px" class="align-center">
+  <img src="{{ '/images/estherkwan.jpeg' | absolute_url }}" alt="">
+</figure>
+Hi, my name is Esther Kwan and I am the Class of 2026 treasurer! I play the clarinet and enjoy hanging out with my friends, listening to music, crocheting, and petting my rabbit. I’m looking forward to being a part of student council this year! If you have any suggestions, comments, or concerns, feel free to contact me at estherkwan26@gmail.com. 
+
+## Student Representative: Ling Thang
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '' | absolute_url }}" alt="">
+</figure>
+I’m Ling, the freshman representative for LASA highschool. I play soccer, workout, read, and observe the changes within the stars to see if I should continue life. 
 
 ### Previous Years
 [2019-20 officers](https://lasastuco.com/Current-Officers/2019-20-Officers/)
