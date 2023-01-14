@@ -24,9 +24,9 @@ Hey y’all! My name is Nina Prasad and I’m the treasurer for the Class of 202
 
 ## Student Representative: Julia Ding
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/julia2022.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/Julia Ding S23.jpg' | absolute_url }}" alt="">
 </figure>
-Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. I play the cello and piano and also take a great interest in math and computer science. I’m looking forward to another amazing year of student council!
+Hi everyone! My name is Julia Ding, and I am the class of 2023 student representative. I play the cello and piano and enjoy math and computer science. I’m looking forward to another amazing year of student council!
 
 # Juniors
 ## President: Sofia Francis
