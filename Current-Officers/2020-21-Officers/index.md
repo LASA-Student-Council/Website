@@ -95,4 +95,4 @@ Hi everyone! My name is Julia Ding, and I am the class of 2023 student represent
 **contact**: <julia@lasastuco.org>
 
 ### Previous Years
-[2019-20 officers](https://lasastuco.com/Current-Officers/2019-20-Officers/)
+[2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)

@@ -104,6 +104,6 @@ Hi, my name is Esther Kwan and I am the Class of 2026 treasurer! I play the clar
 I’m Ling, the freshman representative for LASA highschool. I play soccer, workout, read, and observe the changes within the stars to see if I should continue life. 
 
 ### Previous Years
-[2019-20 officers](https://lasastuco.com/Current-Officers/2019-20-Officers/)
-[2020-21 officers](https://lasastuco.com/Current-Officers/2020-21-Officers/)
-[2021-22 officers](https://lasastuco.com/Current-Officers/2021-22-Officers/)
+[2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)
+[2020-21 officers](https://lasastuco.org/Current-Officers/2020-21-Officers/)
+[2021-22 officers](https://lasastuco.org/Current-Officers/2021-22-Officers/)
