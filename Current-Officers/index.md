@@ -87,7 +87,7 @@ Pending
 
 ## Vice-President: Pending
 <figure style="width: 400px" class="align-center">
-  <img src="{{ ' | absolute_url }}" alt="">
+  <img src="{{ '' | absolute_url }}" alt="">
 </figure>
 Pending
 
