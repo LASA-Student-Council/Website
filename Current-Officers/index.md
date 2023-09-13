@@ -26,7 +26,7 @@ Hey! I’m Will Basham, and I’m the treasurer for the class of 2024. In my fre
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/travis2022.png' | absolute_url }}" alt="">
 </figure>
-Hi! I am Travis Edwards, the Class of 2024 Student Rep. I am excited to begin working on student council this year. I enjoy playing on the basketball team and in the Honors orchestra. Basketball and football are my two favorite sports. I am a big fan of the Baylor Bears, Utah Jazz, and Chicago Bears. I’m also always excited to try and solve a logic puzzle or a good crossword. If you have any questions or ideas feel free to contact me at <Travispedwards@gmail.com>
+Hi! I'm Travis Edwards, the Class of 2024 Student Rep. I am excited to begin working on student council this year. I enjoy playing on the basketball team and in the Honors orchestra. Basketball and football are my two favorite sports. I am a big fan of the Baylor Bears, Utah Jazz, and Chicago Bears. I’m also always excited to try and solve a logic puzzle or a good crossword. If you have any questions or ideas feel free to contact me at <Travispedwards@gmail.com>
 
 # Juniors
 ## President: Anish Vivek
