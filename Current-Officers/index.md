@@ -37,7 +37,7 @@ Hello everyone! My name is Anish Vivek and I’m in the Class of 2025 President.
 
 ## Vice-President: Christian Bohmer
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/11 - Christian Bohmer - Photo.jpg' | absolute_url }}" alt="">
+  <img src="{{ '/images/11Christian Bohmer.jpg' | absolute_url }}" alt="">
 </figure>
 Hello, my name is Christian Bohmer and I am the Class of 2025 Vice President! Outside of academics, I am on the LASA debate team and run track in the spring, but am very committed to serving on student council. If you have any questions for me, feel free to contact me at <critbohmer@gmail.com>.
 
