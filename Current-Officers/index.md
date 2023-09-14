@@ -62,7 +62,7 @@ Hey! My name is Isabel Liu and I am the Class of 2026 President. I like to hang 
 
 ## Vice-President: Claire Zhou
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/10 - Claire Zhou.JPG | absolute_url }}" alt="">
+  <img src="{{ '/images/10 - Claire Zhou.JPG' | absolute_url }}" alt="">
 </figure>
 Hey! My name is Claire Zhou and I am the sophomore vice president. I like to play tennis, listen to music, and crochet. My current favorite artists are Mac DeMarco, Liana Flores, Faye Webster, and Beabadoobee, and my favorite soda is root beer! If you’d like to contact me with questions or suggestions, you can email <z.claire127@gmail.com>.
 
