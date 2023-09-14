@@ -56,19 +56,19 @@ Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representa
 ## Sophomores
 ## President: Isabel Liu
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/isabelliu.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/10_Isabel Liu.jpg' | absolute_url }}" alt="">
 </figure>
 Hey! My name is Isabel Liu and I am the Class of 2026 President. I like to hang out with my friends whenever I can and listen to music by my favorite artists like Lana Del Rey and The Weeknd. I am really looking forward to being in student council this year, if you ever need to contact me my email is <isabelsliu08@gmail.com>.
 
 ## Vice-President: Claire Zhou
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/clairezhou.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/10 - Claire Zhou.JPG | absolute_url }}" alt="">
 </figure>
 Hey! My name is Claire Zhou and I am the sophomore vice president. I like to play tennis, listen to music, and crochet. My current favorite artists are Mac DeMarco, Liana Flores, Faye Webster, and Beabadoobee, and my favorite soda is root beer! If you’d like to contact me with questions or suggestions, you can email <z.claire127@gmail.com>.
 
 ## Treasurer: Esther Kwan
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '/images/estherkwan.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/10 - Esther Kwan.jpeg' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Esther Kwan and I am the Class of 2026 treasurer! I play the clarinet and enjoy hanging out with my friends, listening to music, crocheting, and petting my rabbit. I’m looking forward to being a part of student council this year! If you have any suggestions, comments, or concerns, feel free to contact me at <estherkwan26@gmail.com>. 
 
