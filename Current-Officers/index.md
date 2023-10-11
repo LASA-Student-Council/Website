@@ -79,29 +79,29 @@ Hi! My name is Esther Kwan and I am the Class of 2026 treasurer! I play the clar
 Hello! I’m Laila Ross, Class of 2026 Sophomore Student Representative. I love to sing, play guitar and piano, and listen to music in my freetime. I’m excited to be the newbie in stuco this year, and help out however I can! Feel free to chat with me at <lailakr26@gmail.com> for any questions, concerns, or music rec! 
 
 ## Freshmen
-## President: Pending
+## President: Molly Stromberger
 <figure style="width: 400px" class="align-center">
   <img src="{{ '' | absolute_url }}" alt="">
 </figure>
 Pending
 
-## Vice-President: Pending
+## Vice-President: Camille Schuppe
 <figure style="width: 400px" class="align-center">
   <img src="{{ '' | absolute_url }}" alt="">
 </figure>
 Pending
 
-## Treasurer: Pending
+## Treasurer: Allie Sears
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/AllieSears9.jpeg' | absolute_url }}" alt="">
 </figure>
-Pending
+Hi! My name is Allie Sears and I am the Freshmen Class Treasurer. I do rowing competitively and in my free time, I love making jewelry and reading. I also love water skiing, wake surfing, and anything related to boat rides. My favorite music artists are Taylor Swift, Lorde, Harry Styles, and Frank Ocean. If you have any questions, suggestions, or would just like to talk, feel free to email me at <allie.a.sears@gmail.com>.
 
-## Student Representative: Pending
+## Student Representative: Izzy Cravotta
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/IzzyCravotta9.png' | absolute_url }}" alt="">
 </figure>
-Pending
+Hi! I’m Izzy Cravotta, Class of 2027 Freshman Student Representative. In my spare time I love to spend time with friends, listen to music and cook. I am so excited to be apart of Student Council this year. If you have any questions or need anything, feel free to email me at <izzydorsey@icloud.com>! 
 
 ### Previous Years
 [2019-20 officers](https://lasastuco.org/Current-Officers/2019-20-Officers/)
