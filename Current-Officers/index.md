@@ -83,13 +83,13 @@ Hello! I’m Laila Ross, Class of 2026 Sophomore Student Representative. I love 
 <figure style="width: 400px" class="align-center">
   <img src="{{ '' | absolute_url }}" alt="">
 </figure>
-Pending
+Hi! My name is Molly Stromberger, I’m the Class of 2027 president. Some of my hobbies include rowing, swimming, reading, and cooking. I am so excited to be part of student council this year, and if you have any questions or suggestions feel free to email me at <molly.stromberger@gmail.com>!
 
 ## Vice-President: Camille Schuppe
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/9 - Camille Schuppe.jpeg' | absolute_url }}" alt="">
 </figure>
-Pending
+Hi my name is Camille Schuppe and I’m the class of 2027 vice president. I do competitive swimming and I’m the middle child of two sisters. I love Taylor swift and Lana Del Rey. I’m fluent in French, it’s my first language and I love baking! If you ever need anything feel free to contact me at <camille.schuppe10@gmail.com>
 
 ## Treasurer: Allie Sears
 <figure style="width: 350px" class="align-center">
