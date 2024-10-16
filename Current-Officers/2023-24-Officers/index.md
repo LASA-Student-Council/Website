@@ -4,30 +4,29 @@ image: /images/background8.jpg
 title: Current Officers
 ---
 Elections for student council officers are held at the end of every school year.
-## President: CeCelia Gay
+## President: Sofia Francis
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/sofia_francis - 1.jpeg'  | absolute_url }}" alt="">
 </figure>
-Hi! My name is CeCelia Gay and I am the Senior President this year. In my free time, I love to play volleyball, go to the gym, and hang out with my friends. At home, I have one dog named Juno who I love to play with. I also enjoy babysitting around my neighborhood. I am so excited to run student council this year and to help represent the senior class! If you have any suggestions, comments, or concerns, feel free to contact me at cece.e.gay@gmail.com or DM the LASA stuco instagram.
+Hi! My name is Sofia Francis and I’m the Senior President. In my free time, I am a foil fencer, an avid reader, and an ice cream connoisseur. I like graphic design, funky earrings, and food with a lot of garlic. Never be afraid to say hi in the halls, I can’t wait to meet you!
 
-## Vice-President: Christian Bohmer
+## Vice-President: Wendy Geng
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/wendy.jpeg' | absolute_url }}" alt="">
 </figure>
-Hello, my name is Christian Bohmer and I am the Class of 2025 Vice President! In my free time, I enjoy reading, photography, and listening to any type of music. I’m excited to help run Student Council this year! If you have any questions for me, feel free to contact me at critbohmer@gmail.com.
+Hello! My name is Wendy Geng and I am the vice president for the Class of 2024. I enjoy playing tennis and cooking for my family and friends when I have free time. Currently, I like listening to Mac Miller and MF Doom, playing with my dog Frosty, and reading. I’m excited to be a part of student council this year!
 
-
-## Treasurer: Chloe Bao
+## Treasurer: Will Basham
 <figure style="width: 350px" class="align-center">
   <img src="{{ '/images/will2022.jpeg' | absolute_url }}" alt="">
 </figure>
-Hi, I’m Chloe Bao and I’m the Class of 2025 Treasurer! Some of my hobbies include gaming, violin, and drawing. I have two cats, named Trex and Ponyo. Please let me know if you have any concerns or suggestions (my email is lovelychloebao@yahoo.com), I look forward to working in the student council this year!
+Hey! I’m Will Basham, and I’m the treasurer for the class of 2024. In my free time, I enjoy playing ultimate frisbee, watching football (go pack go!), and running (either track or cross country). I’m super excited to be a part of Student Council for another year and getting to meet even more of y’all! Contact me at <will@willbasham.com> if you have any questions, comments, or concerns. 
 
-## Student Representative: Edwin Liu
+## Student Representative: Travis Edwards
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/Edwin_Liu.png' | absolute_url }}" alt="">
+  <img src="{{ '/images/travis2022.png' | absolute_url }}" alt="">
 </figure>
-Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at liu.edwin07@gmail.com!
+Hi! I'm Travis Edwards, the Class of 2024 Student Rep. I am excited to begin working on student council this year. I enjoy playing on the basketball team and in the Honors orchestra. Basketball and football are my two favorite sports. I am a big fan of the Baylor Bears, Utah Jazz, and Chicago Bears. I’m also always excited to try and solve a logic puzzle or a good crossword. If you have any questions or ideas feel free to contact me at <Travispedwards@gmail.com>
 
 # Juniors
 ## President: Anish Vivek
