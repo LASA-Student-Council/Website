@@ -32,4 +32,4 @@ The activities that student council does, however, vary widely from year to year
 ## Specifics
 Each class has 4 officers: a president, vice president, treasurer, and student representative. The difference in roles is largely symbolic. Practically, all members of the council are expected to participate in all council events. The senior council (in theory) leads all events, and takes the lead in organizing council members into various roles. Although all decisions are expected to be reached by consensus within the council, ultimately the senior president has the authority to make decisions, at the discretion of the student council sponsor.
 
-The student council teacher sponsor is Mrs. A, the theater teacher, although members of the council are expected to take a lead role on all events. The council meets every Wednesday during lunch, with an occasional joint meeting with the LBJ student council on a separate date.
+The student council teacher sponsor is Mr. Breland, the ASL teacher, although members of the council are expected to take a lead role on all events. The council meets every Wednesday during lunch.
