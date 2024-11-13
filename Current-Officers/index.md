@@ -101,7 +101,7 @@ Hi! My name is Rosalind Mann, but most people call me Rozy. I am one of the co-p
 
 ## Vice-President: Pepper Baker
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/9 - Pepper Baker - Photo' | absolute_url }}" alt="">
+  <img src="{{ '/images/9-Pepper.png' | absolute_url }}" alt="">
 </figure>
 Hey! My name is Pepper and I am the Freshman Vice-President this year. Some things I enjoy are playing soccer, going to music festivals, and hanging out with my friends. I have 2 dogs and 4 chickens who I love. I’m very excited to be a part of student council this year! If you have any questions please feel free to contact me at <ipepperbaker@gmail.com>. 
 
