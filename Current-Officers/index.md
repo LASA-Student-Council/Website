@@ -6,7 +6,7 @@ title: Current Officers
 Elections for student council officers are held at the end of every school year.
 ## President: CeCelia Gay
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '/images/12 - CeCelia Gay - Photo.png'  | absolute_url }}" alt="">
+  <img src="{{ '/images/12 - CeCelia Gay.png'  | absolute_url }}" alt="">
 </figure>
 Hi! My name is CeCelia Gay and I am the Senior President this year. In my free time, I love to play volleyball, go to the gym, and hang out with my friends. At home, I have one dog named Juno who I love to play with. I also enjoy babysitting around my neighborhood. I am so excited to run student council this year and to help represent the senior class! If you have any suggestions, comments, or concerns, feel free to contact me at <cece.e.gay@gmail.com> or DM the LASA stuco instagram.
 
