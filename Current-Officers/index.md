@@ -8,26 +8,26 @@ Elections for student council officers are held at the end of every school year.
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/12 - CeCelia Gay - Photo.png'  | absolute_url }}" alt="">
 </figure>
-Hi! My name is CeCelia Gay and I am the Senior President this year. In my free time, I love to play volleyball, go to the gym, and hang out with my friends. At home, I have one dog named Juno who I love to play with. I also enjoy babysitting around my neighborhood. I am so excited to run student council this year and to help represent the senior class! If you have any suggestions, comments, or concerns, feel free to contact me at cece.e.gay@gmail.com or DM the LASA stuco instagram.
+Hi! My name is CeCelia Gay and I am the Senior President this year. In my free time, I love to play volleyball, go to the gym, and hang out with my friends. At home, I have one dog named Juno who I love to play with. I also enjoy babysitting around my neighborhood. I am so excited to run student council this year and to help represent the senior class! If you have any suggestions, comments, or concerns, feel free to contact me at <cece.e.gay@gmail.com> or DM the LASA stuco instagram.
 
 ## Vice-President: Christian Bohmer
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/12 - Christian Bohmer.png' | absolute_url }}" alt="">
 </figure>
-Hello, my name is Christian Bohmer and I am the Class of 2025 Vice President! In my free time, I enjoy reading, photography, and listening to any type of music. I’m excited to help run Student Council this year! If you have any questions for me, feel free to contact me at critbohmer@gmail.com.
+Hello, my name is Christian Bohmer and I am the Class of 2025 Vice President! In my free time, I enjoy reading, photography, and listening to any type of music. I’m excited to help run Student Council this year! If you have any questions for me, feel free to contact me at <critbohmer@gmail.com>.
 
 
 ## Treasurer: Chloe Bao
 <figure style="width: 350px" class="align-center">
   <img src="{{ '/images/12 - Chloe Bao.JPG' | absolute_url }}" alt="">
 </figure>
-Hi, I’m Chloe Bao and I’m the Class of 2025 Treasurer! Some of my hobbies include gaming, violin, and drawing. I have two cats, named Trex and Ponyo. Please let me know if you have any concerns or suggestions (my email is lovelychloebao@yahoo.com), I look forward to working in the student council this year!
+Hi, I’m Chloe Bao and I’m the Class of 2025 Treasurer! Some of my hobbies include gaming, violin, and drawing. I have two cats, named Trex and Ponyo. Please let me know if you have any concerns or suggestions (my email is <lovelychloebao@yahoo.com>), I look forward to working in the student council this year!
 
 ## Student Representative: Edwin Liu
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/12 - Edwin Liu - Photo.jpg' | absolute_url }}" alt="">
 </figure>
-Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at liu.edwin07@gmail.com!
+Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at <liu.edwin07@gmail.com>!
 
 # Juniors
 ## President: Isabel Liu
