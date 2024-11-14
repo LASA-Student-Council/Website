@@ -74,7 +74,7 @@ Hi my name is Camille Schuppe and I’m the class of 2027 vice president. I do c
 
 ## Treasurer: Allie Sears
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '/images/10 - Allie Sear -.jpeg' | absolute_url }}" alt="">
+  <img src="{{ '/images/10 - Allie Sears -.jpeg' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Allie Sears and I am the Freshmen Class Treasurer. I do rowing competitively and in my free time, I love making jewelry, reading, and traveling. I also love water skiing, wake surfing, and anything related to boat rides. My favorite music artists are Taylor Swift, Olivia Rodrigo, Chapelle Roan, and Gracie Abrams. If you have any questions, suggestions, or would just like to talk, feel free to email me at <allie.a.sears@gmail.com>.
  
