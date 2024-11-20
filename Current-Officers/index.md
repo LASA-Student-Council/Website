@@ -95,7 +95,7 @@ Hi! My name is Kyung Joo Park (which is written in the title lol), but I also go
 
 ## Co-President: Rosalind Mann
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/9- Rosalind Mann.png' | absolute_url }}" alt="">
 </figure>
 Hi! My name is Rosalind Mann, but most people call me Rozy. I am one of the co-presidents for the freshman class of 2028. Some of my hobbies include volleyball, concerts, and hanging out with my friends. I have a dog named Shasta who I love very much, and I am getting a puppy in the near future. I am very excited to be a part of stuco this year! If you have any questions feel free to send me an email at <rosalindmannnn@gmail.com>
 
@@ -108,9 +108,10 @@ Hey! My name is Pepper and I am the Freshman Vice-President this year. Some thin
 
 ## Treasurer: Sai Gokul
 <figure style="width: 350px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/Sai - 9.jpeg' | absolute_url }}" alt="">
 </figure>
-Hi! 
+ Hi! My name is Krithi Gokul, but I go by Sai. I am the treasurer for the freshman this year. Some of my hobbies include tennis, listening to music, and reading. I have an older sister in college and a dog named Oreo. I am so excited to be part of StuCo this year! My personal email is <saikrithi.gokul@gmail.com>. 
+
 
 ## Student Representative: Sarahi Barman
 <figure style="width: 400px" class="align-center">
