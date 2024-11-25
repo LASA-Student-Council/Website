@@ -115,7 +115,7 @@ Hey! My name is Pepper and I am the Freshman Vice-President this year. Some thin
 
 ## Student Representative: Sarahi Barman
 <figure style="width: 400px" class="align-center">
-  <img src="{{ '' | absolute_url }}" alt="">
+  <img src="{{ '/images/9 - Sarahi Barman.jpeg' | absolute_url }}" alt="">
 </figure>
 Hi! I’m Sarahi Barman and I’m the Class of 2028 Student Representative. My hobbies include painting, going to concerts, baking cookies, and hanging out with friends. I have an older brother and a younger sister. I like music, especially Tate McRae, SZA, The Weeknd, and Arctic Monkeys, and I love the ocean and sea-life. I’m super excited to be a part of StuCo and represent the freshman class! If you have any questions or ideas my email is <sarahi0410@outlook.com>
 
