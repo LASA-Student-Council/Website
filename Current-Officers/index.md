@@ -27,7 +27,7 @@ Hi, I’m Chloe Bao and I’m the Class of 2025 Treasurer! Some of my hobbies in
 <figure style="width: 400px" class="align-center">
   <img src="{{ '/images/12 - Edwin Liu - Photo.jpg' | absolute_url }}" alt="">
 </figure>
-Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at <liu.edwin07@gmail.com>!
+Hi everyone! My name is Edwin Liu and I’m the Class of 2025 student representative. I like to play piano and hang out with friends in my freetime. I’m very excited to be on student council and to serve you all this year! If you have anything you want me to know, you can contact me at <liu.edwin07@gmail.com>! this guy is very cool...
 
 # Juniors
 ## President: Isabel Liu
